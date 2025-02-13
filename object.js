@@ -25,4 +25,4 @@ const subjectDetails = {
 }
 
 console.log(bottle);
-console.log(subjectDetails);
+console.log(subjectDetails.name);
